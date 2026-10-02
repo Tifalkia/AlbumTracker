@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Album Tracker</string>
+    <string name="app_subtitle">Acompanhe o que você ouviu e o que ainda quer ouvir.</string>
+    <string name="album_count">%1$d álbuns exibidos</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_favorites">★ Favoritos</string>
+    <string name="favorite_symbol">★</string>
+    <string name="item_separator">  •  </string>
+    <string name="album_cover_description">Capa ilustrativa do álbum</string>
+    <string name="status_label">Status</string>
+    <string name="year_label">Ano</string>
+    <string name="genre_label">Gênero</string>
+    <string name="rating_label">Nota</string>
+    <string name="review_label">Comentário</string>
+    <string name="year_unknown">Ano não informado</string>
+    <string name="genre_unknown">Gênero não informado</string>
+    <string name="add_favorite">☆ Adicionar aos favoritos</string>
+    <string name="remove_favorite">★ Remover dos favoritos</string>
+    <string name="back">← Voltar</string>
+</resources>

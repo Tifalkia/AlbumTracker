@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#121212</color>
+    <color name="surface">#1E1E1E</color>
+    <color name="border">#333333</color>
+    <color name="text_primary">#F5F5F5</color>
+    <color name="text_secondary">#B9B9B9</color>
+    <color name="rating">#FFD166</color>
+    <color name="purple">#7C4DFF</color>
+
+    <color name="album_blue">#3566A8</color>
+    <color name="album_orange">#9A5C2F</color>
+    <color name="album_purple">#6B4C8A</color>
+    <color name="album_red">#934545</color>
+    <color name="album_green">#466D5C</color>
+    <color name="album_gray">#555B66</color>
+</resources>
